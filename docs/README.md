@@ -20,4 +20,4 @@ Infra: AWS/GCP, Docker, Vercel, Render
 Contributors
 Andrew Luutu  
 Esther Nampiina (support)  
-Mentor: Mr. Baguma  
+Lead Engineer: Mr. Baguma  
